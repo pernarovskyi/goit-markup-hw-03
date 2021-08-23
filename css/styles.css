@@ -283,6 +283,10 @@ a {
   justify-content: center;
 }
 
+.team-item {
+  background-color: #fff;
+}
+
 .team-item:not(:last-child) {
   margin-right: 30px;
 }
